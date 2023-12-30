@@ -20,6 +20,4 @@ This project is a web-based game. The game features a square grid map with vario
 
 - Additional missions including 'Tree Line', 'Watering Canal', 'Wealthy Town', 'Magicians' Valley', 'Empty Site', 'Terraced House', 'Odd Silos', and 'Rich Countryside'.
 
-## License
-This project is a part of an academic course and is used for educational purposes only.
 
